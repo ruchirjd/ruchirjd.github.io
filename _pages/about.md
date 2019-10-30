@@ -13,4 +13,8 @@ I am an enthusiastic and self-motivated scientist with 8 years of experience in 
 
 Technical Skills
 ======
+Expertise in Protein engineering,Protein-Protein interaction, Cell surface proteomics, Transcriptomics, Glycomics and Single Nucleotide Variant analyses
 
+Data Science Skills
+======
+Knowledge of R (Tidyverse), Python, Awk and MySQL
