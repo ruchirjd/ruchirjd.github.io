@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ruchir Mishra"
 title_separator          : "-"
-name                     :  "Ruchir"
+name                     :  &name "Ruchir"
 description              : &description "	Enthusiastic and self-motivated scientist with 8 years of experience in protein engineering, omics technology and bioinformatics field. Strong analytical and problem-solving skills, resulting in development of in vivo bio-panning assay coupled with next generation sequencing to identify in vivo gut binding peptides in lepidopteran insects from Phage display library. Further developed and standardized UV-crosslinking pull down assay coupled with LC-MS/MS analysis to identify the binding partners of gut binding peptides."
 url                      : https://ruchirjd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ruchir Mishra"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Post Doctoral Associate"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ruchir+mishra"
+  googlescholar    : "https://scholar.google.com/citations?user=cR7iVhYAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
