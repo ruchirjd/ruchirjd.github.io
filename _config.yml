@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ruchir Mishra"
   avatar           : "profile.png"
-  bio              : "Post Doctoral Associate"
-  location         : "Location"
+  bio              : "Post Doctoral Associate at University of Florida"
+  location         : "Gainesville"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ruchir+mishra"
   googlescholar    : "https://scholar.google.com/citations?user=cR7iVhYAAAAJ&hl=en&oi=ao"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ruchirjd"
   google_plus      :
   keybase          :
   instagram        :
