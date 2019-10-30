@@ -3,6 +3,8 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+header:
+   image:"/images/images.jpg"
 redirect_from: 
   - /about/
   - /about.html
