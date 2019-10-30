@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ruchir Mishra"
 title_separator          : "-"
-name                     : &name "Ruchir"
+name                     :  "Ruchir"
 description              : &description "	Enthusiastic and self-motivated scientist with 8 years of experience in protein engineering, omics technology and bioinformatics field. Strong analytical and problem-solving skills, resulting in development of in vivo bio-panning assay coupled with next generation sequencing to identify in vivo gut binding peptides in lepidopteran insects from Phage display library. Further developed and standardized UV-crosslinking pull down assay coupled with LC-MS/MS analysis to identify the binding partners of gut binding peptides."
 url                      : https://ruchirjd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
