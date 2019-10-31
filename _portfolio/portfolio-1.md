@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Project number 1"
+excerpt: "Engineering Cry pesticidal proteins to enhance its toxicity against insect pests"
+collection: project
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+It is an ongoing  industry funded project where we are using Phage display library coupled with next generation sequencing to identify 
+<em>in vivo</em> gut binding peptides and use specific gut binding peptides to engineer Cry proteins.
